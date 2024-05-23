@@ -1,75 +1,75 @@
-0.0.0.0 aic.recommend.lgtvcommon.com
-0.0.0.0 aic.sports.lgtviot.com
-0.0.0.0 images.pluto.tv
-0.0.0.0 discovery.meethue.com
-0.0.0.0 aic.homeprv.lgtvcommon.com
-0.0.0.0 aic.lgtviot.com
-0.0.0.0 us.emp.lgsmartplatform.com
-0.0.0.0 us.lgeapi.com
-0.0.0.0 aic.nudge.lgtvcommon.com
-0.0.0.0 www.ueiwsp.com
-0.0.0.0 unagi-na.amazon.com
-0.0.0.0 ipv6.unagi-na.amazon.com
-0.0.0.0 aic-gfts.lge.com
-0.0.0.0 aic-op-lss.lgthinq.com
-0.0.0.0 lss.lgthinq.com
-0.0.0.0 aic.api.lgtviot.com
-0.0.0.0 common.lgthinq.com
-0.0.0.0 canvas.tubitv.com
-0.0.0.0 qt2-ngfts.lge.com
-0.0.0.0 img.nvidiagrid.net
-0.0.0.0 cdn77.utomik.com
-0.0.0.0 i.ibb.co
-0.0.0.0 aic.wiseconfig.lgtvcommon.com
-0.0.0.0 images.redbox.com
-0.0.0.0 aic-ngfts.lge.com
-0.0.0.0 ngfts.lge.com
-0.0.0.0 lgtvonline.lge.com
-0.0.0.0 snu.lge.com
-0.0.0.0 aic.rdl.lgtvcommon.com
-0.0.0.0 developers.google.com
-0.0.0.0 service.idsync.analytics.yahoo.com
-0.0.0.0 mindfieldonline.com
-0.0.0.0 us.ibs.lgappstv.com
-0.0.0.0 nevoai-iothub-54-prod.azure-devices.net
-0.0.0.0 threeplr-avuypkjypveaj-0.api.amazonvideo.com
-0.0.0.0 cloudfront.xp-assets.aiv-cdn.net
-0.0.0.0 cf-trickplay.aux.pv-cdn.net
-0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 api.us-east-1.aiv-delivery.net
-0.0.0.0 us.rdx2.lgtvsdp.com
-0.0.0.0 mediaservices.cdn-apple.com
-0.0.0.0 ccdpbeacon.lgtvcommon.es
-0.0.0.0 cdpsvc.lgtvcommon.es
-0.0.0.0 homeprv.lgtvcommon.es
-0.0.0.0 nudge.lgtvcommon.es
-0.0.0.0 recommend.lgtvcommon.es
-0.0.0.0 rdl.lgtvcommon.es
-0.0.0.0 lgsmartad.es
-0.0.0.0 lgsmartad.com
-0.0.0.0 recommend.lgtvcommon.com
-0.0.0.0 rdl.lgtvcommon.com
-0.0.0.0 nudge.lgtvcommon.com
-0.0.0.0 homeprv.lgtvcommon.com
-0.0.0.0 cdpsvc.lgtvcommon.com
-0.0.0.0 cdpbeacon.lgtvcommon.com
-0.0.0.0 service.lgtvcommon.es
-0.0.0.0 service.lgtvcommon.com
-0.0.0.0 lgtvonline.lge.com
-0.0.0.0 eic.cdpbeacon.lgtvcommon.com
-0.0.0.0 ad.lgsmartad.com
-0.0.0.0 ibs.lgappstv.com
-0.0.0.0 lgtvsdp.com
-0.0.0.0 aic-ngfts.lge.com
-0.0.0.0 es.ibs.lgappstv.com
-0.0.0.0 es.lgtvsdp.com
-0.0.0.0 ibis.lgappstv.com
-0.0.0.0 ad.lgappstv.com
-0.0.0.0 info.lgsmartad.com
-0.0.0.0 rdx2.lgtvsdp.com
-0.0.0.0 smartshare.lgtvsdp.com
-0.0.0.0 es.rdx2.lgtvsdp.com
-0.0.0.0 es.info.lgsmartad.com
-0.0.0.0 es.ad.lgsmartad.com
-0.0.0.0 ngfts.lge.com
-0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+||aic.recommend.lgtvcommon.com
+||aic.sports.lgtviot.com
+||images.pluto.tv
+||discovery.meethue.com
+||aic.homeprv.lgtvcommon.com
+||aic.lgtviot.com
+||us.emp.lgsmartplatform.com
+||us.lgeapi.com
+||aic.nudge.lgtvcommon.com
+||www.ueiwsp.com
+||unagi-na.amazon.com
+||ipv6.unagi-na.amazon.com
+||aic-gfts.lge.com
+||aic-op-lss.lgthinq.com
+||lss.lgthinq.com
+||aic.api.lgtviot.com
+||common.lgthinq.com
+||canvas.tubitv.com
+||qt2-ngfts.lge.com
+||img.nvidiagrid.net
+||cdn77.utomik.com
+||i.ibb.co
+||aic.wiseconfig.lgtvcommon.com
+||images.redbox.com
+||aic-ngfts.lge.com
+||ngfts.lge.com
+||lgtvonline.lge.com
+||snu.lge.com
+||aic.rdl.lgtvcommon.com
+||developers.google.com
+||service.idsync.analytics.yahoo.com
+||mindfieldonline.com
+||us.ibs.lgappstv.com
+||nevoai-iothub-54-prod.azure-devices.net
+||threeplr-avuypkjypveaj-0.api.amazonvideo.com
+||cloudfront.xp-assets.aiv-cdn.net
+||cf-trickplay.aux.pv-cdn.net
+||s3-iad-2.cf.dash.row.aiv-cdn.net
+||api.us-east-1.aiv-delivery.net
+||us.rdx2.lgtvsdp.com
+||mediaservices.cdn-apple.com
+||ccdpbeacon.lgtvcommon.es
+||cdpsvc.lgtvcommon.es
+||homeprv.lgtvcommon.es
+||nudge.lgtvcommon.es
+||recommend.lgtvcommon.es
+||rdl.lgtvcommon.es
+||lgsmartad.es
+||lgsmartad.com
+||recommend.lgtvcommon.com
+||rdl.lgtvcommon.com
+||nudge.lgtvcommon.com
+||homeprv.lgtvcommon.com
+||cdpsvc.lgtvcommon.com
+||cdpbeacon.lgtvcommon.com
+||service.lgtvcommon.es
+||service.lgtvcommon.com
+||lgtvonline.lge.com
+||eic.cdpbeacon.lgtvcommon.com
+||ad.lgsmartad.com
+||ibs.lgappstv.com
+||lgtvsdp.com
+||aic-ngfts.lge.com
+||es.ibs.lgappstv.com
+||es.lgtvsdp.com
+||ibis.lgappstv.com
+||ad.lgappstv.com
+||info.lgsmartad.com
+||rdx2.lgtvsdp.com
+||smartshare.lgtvsdp.com
+||es.rdx2.lgtvsdp.com
+||es.info.lgsmartad.com
+||es.ad.lgsmartad.com
+||ngfts.lge.com
+||lgad.cjpowercast.com.edgesuite.net
